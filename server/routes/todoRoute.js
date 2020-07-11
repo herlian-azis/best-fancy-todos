@@ -8,6 +8,7 @@ todoRoute
         .get('/:id', authorization, todoController.findById)
         .patch('/:id', authorization ,todoController.changeStatus)
         .delete('/:id', authorization , todoController.deleteTodo)
+        .put('/:id', authorization , todoController.updateTodo)
 
 
 module.exports = todoRoute
