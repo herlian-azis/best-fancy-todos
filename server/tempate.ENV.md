@@ -1,0 +1,4 @@
+SECRET=Team_Secret
+CLIENT_ID =328263404641-bq4227pik80msmupbk9njoemc7rhl2vg.apps.googleusercontent.com
+CLIENT_SECRET =328263404641-bq4227pik80msmupbk9njoemc7rhl2vg.apps.googleusercontent.com
+PASSWORD_DEFAULT =Team_Secret
